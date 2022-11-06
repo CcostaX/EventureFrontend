@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Eventure</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="rating">Rating: %1$.1f</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_place_to_stay">placeToStay</string>
+
+    <string-array name="spinner_values_country">
+        <item>Portugal</item>
+        <item>Spain</item>
+        <item>France</item>
+        <item>Germany</item>
+    </string-array>
+
+    <string-array name="spinner_values_city">
+        <item>Lisboa</item>
+        <item>Leiria</item>
+        <item>Setubal</item>
+        <item>Porto</item>
+        <item>Viseu</item>
+    </string-array>
+
+    <string-array id="hotel" name="spinner_values_hotel">
+        <item>Tivoli Oriente</item>
+        <item>Ikonic Lisboa</item>
+        <item>Avenue Rooms and Suites</item>
+        <item>Hotel Lisboa</item>
+    </string-array>
+    <string name="title_activity_route_for_you">routeForYou</string>
+
+    <string-array name="spinner_values_categories">
+        <item>Turism</item>
+        <item>Sports</item>
+        <item>Gaming</item>
+        <item>Food</item>
+    </string-array>
+
+    <string-array name="spinner_values_transportation">
+        <item>Bus</item>
+        <item>Truck</item>
+        <item>Taxi</item>
+        <item>Uber</item>
+        <item>Bike</item>
+    </string-array>
+
+    <string-array name="spinner_values_children">
+        <item>0 filhos</item>
+        <item>1 filho</item>
+        <item>2 filhos</item>
+        <item>3 filhos</item>
+        <item>4+ filhos</item>
+    </string-array>
+
+    <string-array name="spinner_values_hours">
+        <item>0-3 trip hours</item>
+        <item>3-5 trip hours</item>
+        <item>5-9 trip hours</item>
+        <item>9-15 trip hours</item>
+        <item>15+ trip hours</item>
+    </string-array>
+
+    <string-array name="spinner_values_accomodation">
+        <item>Accomodation whereabouts</item>
+        <item>Chosen routes whereabouts</item>
+    </string-array>
+    <string name="title_activity_my_achivements">myAchivements</string>
+    <string name="title_activity_perfil">perfil</string>
+</resources>
